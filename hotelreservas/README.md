@@ -74,14 +74,9 @@ Endpoints disponíveis:
 
 O front-end é um conjunto de páginas HTML/CSS/JS estáticas que consomem a API.
 
-```bash
+bash
 cd web
-# Abra o arquivo index.html no navegador,
-# ou utilize um servidor estático, por exemplo:
-npx serve .
-```
-
-> A API deve estar em execução em `http://localhost:3000` para que o front-end funcione corretamente (configurável em `web/api.js`).
+ Abra o arquivo index.html no navegador, ou utilize um servidor estático, por exemplo: npx serve .
 
 ## Telas do sistema
 
