@@ -1,4 +1,4 @@
-- Hotel Reservas
+# Hotel Reservas
 
 Sistema web full-stack para gerenciamento de quartos e reservas de hotel.
 
