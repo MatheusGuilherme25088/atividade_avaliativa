@@ -24,3 +24,5 @@ app.use((req, res) => {
 app.listen(PORT, () => {
   console.log(`API Hotel Reservas rodando em http://localhost:${PORT}`);
 });
+
+
