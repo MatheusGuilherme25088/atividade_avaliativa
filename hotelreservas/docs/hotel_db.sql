@@ -5,6 +5,7 @@
 -- =========================================================
 
 -- Tabela: quartos
+
 CREATE TABLE IF NOT EXISTS quartos (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     numero VARCHAR(10) NOT NULL,
